@@ -1,4 +1,4 @@
-##Did Early Termination of SNAP Emergency Allotments Increase Food Scarcity in the US?
+# Did Early Termination of SNAP Emergency Allotments Increase Food Scarcity in the US?
 
 This research project examines whether U.S. states that ended Supplemental Nutrition Assistance Program (SNAP) Emergency Allotments (EA) early during the COVID-19 pandemic experienced greater increases in food scarcity compared to those that maintained EA until the federal cutoff in 2023.
 
